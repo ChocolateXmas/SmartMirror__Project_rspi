@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="json-simple-1.1.1">
+    <archive path="/Users/chocolate_starfish/Documents/Java/Java projects/SmartMirror__Project_rspi/libs/json-simple-1.1.1.jar" />
+  </library>
+  <library name="miglayout-4.0">
+    <archive path="/Users/chocolate_starfish/Documents/Java/Java projects/SmartMirror__Project_rspi/libs/miglayout-4.0.jar" />
+  </library>
+  <library name="miglayout-4.0-ideutil">
+    <archive path="/Users/chocolate_starfish/Documents/Java/Java projects/SmartMirror__Project_rspi/libs/miglayout-4.0-ideutil.jar" />
+  </library>
+</eclipse-userlibraries>
+
